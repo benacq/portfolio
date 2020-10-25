@@ -20,11 +20,11 @@ import {MobileIcon, Nav, NavbarContainer, NavBtn, NavBtnLink, NavItem, NavLinks,
                         <NavLinks to='about'>Projects Demo</NavLinks>
                     </NavItem>
                 </NavMenu>
-                <NavBtn>
+                {/* <NavBtn>
                     <NavBtnLink>
                         Sign In
                     </NavBtnLink>        
-                </NavBtn>
+                </NavBtn> */}
             </NavbarContainer>
         </Nav>
     </>
