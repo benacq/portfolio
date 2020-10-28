@@ -2,16 +2,17 @@ import styled from 'styled-components';
 import {Link as LinkScroll} from 'react-scroll';
 
 export const Nav = styled.nav`
-    background: #1c2237;
+    background-color: ${({scrollNav}) => (scrollNav ? "#121624" : "transparent")};
     height: 80px;
+    margin-top: -80px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 1rem;
-    left: 0;
-    right: 0;
+    position: sticky;
     top: 0;
     z-index: 10;
+    transition: 0.8s all ease;
 
     @media screen and (max-width: 960px){
         transition: 0.8s all ease;
@@ -24,7 +25,6 @@ export const NavbarContainer = styled.div`
     height: 80px;
     z-index: 1;
     width: 100%;
-    
     padding: 0 24px;
    
 `
@@ -86,7 +86,8 @@ export const NavLinks = styled(LinkScroll)`
     height: 100%;
 
     &.active{
-        border-bottom: 3px solid #01bf71;
+        border-bottom: 3px solid #f00946;;
+        
     }
 `
 

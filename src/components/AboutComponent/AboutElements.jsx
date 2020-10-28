@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 
 export const AboutContainer = styled.div`
-    background-color: #2c344f;
+    background-color: #1a2031;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -71,7 +71,7 @@ export const AboutContent = styled.div`
 `
 
 export const AboutH1= styled.h1`
-    color: #eee;
+    color: #f00946;
     font-size: 36px;
     font-weight: lighter;
     text-align: center;
@@ -88,22 +88,20 @@ export const AboutH1= styled.h1`
 
 export const AboutP= styled.p`
     color: #a0a0a0;
-    font-size: 25px;
+    font-size: 22px;
     margin: 24px;
     text-align: start;
     max-width: 100%;
 
     @media screen and (min-width: 576px) and (max-width: 768px) {
-        /* font-size: 40px; */
+        font-size: 20px;
     }
 
     @media screen and (max-width: 576px) { 
-        font-size: 22px;
+        font-size: 16px;
+        
     }
-
-
 `
-
 
 export const Socials = styled.ul`
     display: flex;

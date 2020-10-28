@@ -5,7 +5,7 @@ import {FaHtml5, FaDatabase, FaMobileAlt,FaChartBar} from 'react-icons/fa';
 function GridDisplay() {
     return (
         
-    <GridDisplayContainer>
+    <GridDisplayContainer id="services">
     <h1 style={{marginBottom: '20px', paddingTop:'10px', textAlign: 'center', color: '#eee'}}>SERVICES</h1>
         <GridDataWrapper>
             <GridChild>

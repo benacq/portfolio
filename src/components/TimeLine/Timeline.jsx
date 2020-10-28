@@ -6,7 +6,7 @@ import TimelineItem from './TimelineItem';
 
 const Timeline = () => 
      timelineData.length > 0 && (
-         <TimelineSectionContainer>
+         <TimelineSectionContainer id="experience">
          <TimelineSectionHeader>Experience and Achievements</TimelineSectionHeader>
             <TimelineWrapper>
                 {timelineData.map((data, index) => (

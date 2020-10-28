@@ -5,7 +5,6 @@ import {Link as LinkRouter} from 'react-router-dom';
 
 
 export const LandingPageSectionContainer = styled.div`
-    /* background-color: #eee; */
     background-color: #1c2237;
     display: flex;
     justify-content: center;

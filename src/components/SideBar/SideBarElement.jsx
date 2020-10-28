@@ -8,7 +8,7 @@ position: fixed;
 z-index: 999;
 width: 100%;
 height: 100%;
-background-color: #0d0d0d;
+background-color: #121624;
 align-self: center;
 top: 0;
 left: 0;

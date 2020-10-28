@@ -5,7 +5,7 @@ function Skills() {
     return (
         <div>
         
-         <SkillsContainer id="home">
+         <SkillsContainer id="skills">
          <SkillHeaderMain>SKILLS</SkillHeaderMain>
             <div>
                 <SkillSectionHeader>Language</SkillSectionHeader>

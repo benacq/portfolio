@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 
 export const TimelineSectionContainer = styled.div`
-    background-color: #1c2237;
+  background-color: #1c2237;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -155,10 +155,14 @@ export const TimelineStatusSpan = styled.span`
 
 
     export const TimelineSectionHeader = styled.h1`
-    font-size: 1.5em;
+    font-size: 1.8em;
     font-weight: normal;
     margin-top: 10px;
     color: #d4d4d4;
+
+    @media screen and (max-width: 500px){
+      font-size: 1.4em;
+    }
     `
 
 

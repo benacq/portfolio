@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 
 export const GridDisplayContainer = styled.div`
-    background-color: #2c344f;
+    background-color: #1a2031;
     padding: '100px 20px 100px 20px';
     `
 
