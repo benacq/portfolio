@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import {Link as LinkScroll} from 'react-scroll';
-import {Link as LinkRouter} from 'react-router-dom';
+// import {Link as LinkRouter} from 'react-router-dom';
 
 
 
@@ -75,7 +75,7 @@ export const Socials = styled.ul`
     margin-top: 40px;
 `
 
-export const SocialsItem= styled(LinkRouter)`
+export const SocialsItem= styled.a`
     display: flex;
     margin: 10px;
     color: #666;

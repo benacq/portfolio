@@ -15,20 +15,16 @@ function InfoSection() {
             <LandingPageSectionContent>
                 <LandingPageSectionH1>I'm Benjamin Acquaah</LandingPageSectionH1>
                 <LandingPageSectionP>I am a software developer and data analyst based in Accra, Ghana. </LandingPageSectionP>
-
                 <Socials>
-                    <SocialsItem to='LandingPageSection'><FaFacebook/></SocialsItem>
-                    <SocialsItem to='LandingPageSection'><FaTwitter/></SocialsItem>
-                    <SocialsItem to='LandingPageSection'><FaGithub/></SocialsItem>
-                    <SocialsItem to='LandingPageSection'><FaLinkedin/></SocialsItem>
+                    <SocialsItem target="_blank" href='https://www.linkedin.com/in/benjamin-acquaah/'><FaLinkedin/></SocialsItem>
+                    <SocialsItem target="_blank" href='https://github.com/benacq'><FaGithub/></SocialsItem>
+                    <SocialsItem target="_blank" href='https://twitter.com/benacq44'><FaTwitter/></SocialsItem>
+                    <SocialsItem target="_blank" href='https://web.facebook.com/benacqofficial/'><FaFacebook/></SocialsItem>
                 </Socials>
 
             </LandingPageSectionContent>
           
-        </LandingPageSectionContainer>
-
-
-            
+        </LandingPageSectionContainer>            
         </>
     )
 }
