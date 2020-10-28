@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6eee80dc.chunk.css",
-    "main.js": "/portfolio/static/js/main.69425fda.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.69425fda.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.3be2973d.chunk.css",
+    "main.js": "/portfolio/static/js/main.f7fcf6ba.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f7fcf6ba.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.25f13879.chunk.js": "/portfolio/static/js/2.25f13879.chunk.js",
-    "static/js/2.25f13879.chunk.js.map": "/portfolio/static/js/2.25f13879.chunk.js.map",
+    "static/js/2.7b8c66ac.chunk.js": "/portfolio/static/js/2.7b8c66ac.chunk.js",
+    "static/js/2.7b8c66ac.chunk.js.map": "/portfolio/static/js/2.7b8c66ac.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.93a41741ce82544d138551e0291e779d.js": "/portfolio/precache-manifest.93a41741ce82544d138551e0291e779d.js",
+    "precache-manifest.e346b32bbb3c3adbb3feb72f81644130.js": "/portfolio/precache-manifest.e346b32bbb3c3adbb3feb72f81644130.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.6eee80dc.chunk.css.map": "/portfolio/static/css/main.6eee80dc.chunk.css.map",
-    "static/js/2.25f13879.chunk.js.LICENSE.txt": "/portfolio/static/js/2.25f13879.chunk.js.LICENSE.txt",
+    "static/css/main.3be2973d.chunk.css.map": "/portfolio/static/css/main.3be2973d.chunk.css.map",
+    "static/js/2.7b8c66ac.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7b8c66ac.chunk.js.LICENSE.txt",
     "static/media/benacq-2.jpg": "/portfolio/static/media/benacq-2.70cb1523.jpg",
-    "static/media/me2.jpg": "/portfolio/static/media/me2.031cd4bd.jpg"
+    "static/media/benacq_bright.jpg": "/portfolio/static/media/benacq_bright.052e8cef.jpg",
+    "static/media/corona4.jpg": "/portfolio/static/media/corona4.f6804fd5.jpg",
+    "static/media/corona5.jpg": "/portfolio/static/media/corona5.9bff0b05.jpg",
+    "static/media/corr_matrix.png": "/portfolio/static/media/corr_matrix.ed64efe7.png",
+    "static/media/time_spend_emp_status.png": "/portfolio/static/media/time_spend_emp_status.7a8077a1.png",
+    "static/media/timelydeals.png": "/portfolio/static/media/timelydeals.d39caeee.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.25f13879.chunk.js",
-    "static/css/main.6eee80dc.chunk.css",
-    "static/js/main.69425fda.chunk.js"
+    "static/js/2.7b8c66ac.chunk.js",
+    "static/css/main.3be2973d.chunk.css",
+    "static/js/main.f7fcf6ba.chunk.js"
   ]
 }
