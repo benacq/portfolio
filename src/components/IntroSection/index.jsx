@@ -3,7 +3,7 @@ import benacq from '../../images/benacq-2.jpg';
 import {FaFacebook, FaLinkedin, FaGithub, FaTwitter} from 'react-icons/fa';
 import { LandingPageSectionContainer, ImageBg, LandingPageSectionContent, LandingPageSectionH1, LandingPageSectionP, Socials, SocialsItem} from './IntroElements';
  
-function InfoSection() {
+function IntroSection() {
     return (
         <>
 
@@ -29,6 +29,6 @@ function InfoSection() {
     )
 }
 
-export default InfoSection
+export default IntroSection
 
 

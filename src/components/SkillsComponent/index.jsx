@@ -1,10 +1,13 @@
 import React from 'react'
 import { SkillsContainer, SkillSectionData, SkillSectionDataList, SkillSectionHeader, SkillHeaderMain} from './SkillsElement';
+import 'aos/dist/aos';
+
 
 function Skills() {
+
+
     return (
-        <div>
-        
+        <div> 
          <SkillsContainer id="skills">
          <SkillHeaderMain>SKILLS</SkillHeaderMain>
             <div>

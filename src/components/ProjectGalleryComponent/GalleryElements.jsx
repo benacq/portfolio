@@ -19,6 +19,10 @@ export const ProjectGalleryGrid = styled.div`
     grid-template-columns: repeat(3, 1fr);
   }
 
+  @media screen and (min-width: 768px) and (max-width: 900px){
+    grid-template-columns: repeat(3, 1fr);
+    }
+
   @media screen and (min-width: 400px) and (max-width: 500px){
     grid-template-columns: repeat(2, 1fr);
   }
@@ -36,11 +40,15 @@ export const GalleryImage = styled.img`
 `
 
 export const GalleryGridChild = styled.div`
-    height: 340px;
-    
+    height: 410px;
+
+
+    @media screen and (min-width: 900px) and (max-width: 1100px){
+      height: 370px;
+    }
 
   @media screen and (min-width: 768px) and (max-width: 900px){
-      height: 270px;
+      height: 280px;
     }
 
   @media screen and (min-width: 500px) and (max-width: 768px){
@@ -48,7 +56,7 @@ export const GalleryGridChild = styled.div`
   }
 
    @media screen and (min-width: 400px) and (max-width: 500px){
-    height: 210px;
+    height: 300px;
   }
 
   @media screen and (max-width: 400px){
