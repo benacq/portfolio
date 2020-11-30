@@ -1,29 +1,33 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3be2973d.chunk.css",
-    "main.js": "/portfolio/static/js/main.13497e29.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.13497e29.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.106550a3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.106550a3.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.d194efb2.chunk.js": "/portfolio/static/js/2.d194efb2.chunk.js",
-    "static/js/2.d194efb2.chunk.js.map": "/portfolio/static/js/2.d194efb2.chunk.js.map",
+    "static/js/2.7042793a.chunk.js": "/portfolio/static/js/2.7042793a.chunk.js",
+    "static/js/2.7042793a.chunk.js.map": "/portfolio/static/js/2.7042793a.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.6df10cfa326903217e2156ba298c0d17.js": "/portfolio/precache-manifest.6df10cfa326903217e2156ba298c0d17.js",
+    "precache-manifest.c8a0d85b6b40162e7ba4e67e21218473.js": "/portfolio/precache-manifest.c8a0d85b6b40162e7ba4e67e21218473.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.3be2973d.chunk.css.map": "/portfolio/static/css/main.3be2973d.chunk.css.map",
-    "static/js/2.d194efb2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d194efb2.chunk.js.LICENSE.txt",
+    "static/js/2.7042793a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7042793a.chunk.js.LICENSE.txt",
     "static/media/benacq-2.jpg": "/portfolio/static/media/benacq-2.70cb1523.jpg",
     "static/media/benacq_bright.jpg": "/portfolio/static/media/benacq_bright.052e8cef.jpg",
     "static/media/corona4.jpg": "/portfolio/static/media/corona4.f6804fd5.jpg",
     "static/media/corona5.jpg": "/portfolio/static/media/corona5.9bff0b05.jpg",
     "static/media/corr_matrix.png": "/portfolio/static/media/corr_matrix.ed64efe7.png",
+    "static/media/gh_styles1.jpg": "/portfolio/static/media/gh_styles1.8dfacb80.jpg",
+    "static/media/gh_styles3.jpg": "/portfolio/static/media/gh_styles3.784b74fd.jpg",
     "static/media/time_spend_emp_status.png": "/portfolio/static/media/time_spend_emp_status.7a8077a1.png",
-    "static/media/timelydeals.png": "/portfolio/static/media/timelydeals.d39caeee.png"
+    "static/media/timelydeals.png": "/portfolio/static/media/timelydeals.d39caeee.png",
+    "static/media/wew2.jpg": "/portfolio/static/media/wew2.70888d3c.jpg",
+    "static/media/wew3.jpg": "/portfolio/static/media/wew3.3be759d7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.d194efb2.chunk.js",
+    "static/js/2.7042793a.chunk.js",
     "static/css/main.3be2973d.chunk.css",
-    "static/js/main.13497e29.chunk.js"
+    "static/js/main.106550a3.chunk.js"
   ]
 }
