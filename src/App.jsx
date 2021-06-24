@@ -1,12 +1,15 @@
 import React from 'react';
 import './App.css';
-import {BrowserRouter as Router} from 'react-router-dom'
+import { AnimatePresence } from 'framer-motion';
+import { BrowserRouter as Router } from 'react-router-dom'
 import Home from './pages';
 
 function App() {
-  return ( 
+  return (
     <Router >
-      <Home/>
+      <AnimatePresence exitBeforeEnter>
+        <Home />
+      </AnimatePresence>
     </Router>
   );
 }

@@ -42,7 +42,6 @@ export const GalleryImage = styled.img`
 export const GalleryGridChild = styled.div`
     height: 410px;
 
-
     @media screen and (min-width: 900px) and (max-width: 1100px){
       height: 370px;
     }
